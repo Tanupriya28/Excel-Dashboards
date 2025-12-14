@@ -15,3 +15,6 @@ Interactive Excel dashboard analyzing e-commerce sales, profit, discounts, custo
 - Microsoft Excel
 - Pivot Tables
 - Calculated Fields
+## Dashboard Screenshot
+
+![Dashboard](screenshots/dashboard.png)
