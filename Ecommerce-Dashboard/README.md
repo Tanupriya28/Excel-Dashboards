@@ -18,3 +18,6 @@ Interactive Excel dashboard analyzing e-commerce sales, profit, discounts, custo
 ## Dashboard Screenshot
 
 ![Dashboard](screenshots/dashboard.png)
+
+## Download Dashboard
+📥 [Click here to download the Excel dashboard](Ecommerce%20Dashboard.xlsx)
