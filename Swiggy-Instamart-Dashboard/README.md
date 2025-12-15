@@ -98,3 +98,6 @@ To quickly identify **high-performing outlets, top-selling product categories, a
 This project is part of my **Excel Dashboard Portfolio**, showcasing my ability to transform raw retail data into **actionable insights using Excel**.
 
 
+## Download Dashboard
+📥 [Click here to download the Excel dashboard](Swiggy%20Instamart%20Dashboard.xlsx)
+
